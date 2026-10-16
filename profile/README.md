@@ -5,6 +5,8 @@
 **Created with imagination, built for fun.**
 
 ---
+<img src='https://github.com/SyubadubinStudios/.github/blob/main/donate-syubadubin.png' />
+
 
 ## 👋 About Us
 
