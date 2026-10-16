@@ -1,88 +1,123 @@
-<div align="center">
+# 🎮 Syubadubin Studios
 
-# 🎮 Syubadubin
+### Indie Game Studio from Bogor, Indonesia 🇮🇩
 
-### Studio Game Indie dari Bogor 🇮🇩
-
-*Dibuat dengan imajinasi, dimainkan dengan seru.*
-
-</div>
+**Created with imagination, built for fun.**
 
 ---
 
-## 👋 Tentang Kami
+## 👋 About Us
 
-**Syubadubin** adalah studio game indie baru dari **Bogor, Jawa Barat**. Studio ini didirikan oleh **Ariana Mischa Fadhila**, seorang game creator berumur **7 tahun**. 🌟
+Syubadubin Studios is a young indie game studio based in Bogor, West Java, Indonesia.
 
-Kami percaya bahwa ide game seru bisa datang dari siapa saja, di umur berapa saja. Dari imajinasi anak-anak, kami membuat game dengan cerita, suasana, dan karakter yang dekat dengan kehidupan sehari-hari di Indonesia.
+Founded by **Ariana Mischa Fadhila**, Syubadubin believes that great game ideas can come from anyone, regardless of age. Inspired by Indonesian culture, daily life, local stories, and childhood imagination, we create games that are fun, memorable, and uniquely Indonesian.
 
----
-
-## 🧟 Game Pertama Kami: **Bertahan**
-
-> *Bertahanlah. Lindungi keluargamu. Jangan biarkan kampung ini jatuh.*
-
-**Bertahan** adalah game **survival melawan zombie** dengan latar **perkampungan Indonesia** dan sudut pandang **third person**. Tidak ada kota futuristik atau markas militer. Yang ada gang sempit, warung, sawah, dan rumah-rumah warga yang kamu kenal.
-
-### 👨‍👩‍👧‍👦 Pilih Anggota Keluarga
-
-Setiap karakter adalah anggota keluarga yang bisa kamu mainkan:
-
-| Karakter | Peran |
-|----------|-------|
-| 👨 **Bapak** | Kepala keluarga |
-| 👩 **Ibu** | Penjaga rumah |
-| 🧑 **Kaka** | Anak yang lebih tua |
-| 🧒 **Ade** | Si kecil yang lincah |
-| 👴 **Kake** | Kakek |
-| 👵 **Nene** | Nenek |
-
-### 🔧 Senjata untuk Bertahan Hidup
-
-Gunakan apa saja yang ada di sekitarmu, dari peralatan rumah tangga sampai senjata berbahaya:
-
-- 🔩 **Linggis**
-- 🪓 **Kampak**
-- ⛏️ **Pacul**
-- 🧹 **Sapu**
-- 🔫 **Senapan api**
-- 🔥 **Bom molotof**
-
-### 🧟‍♂️ Zombie yang Beragam
-
-Musuh yang kamu hadapi tidak sama semua. Ada zombie **kecil** yang gesit sampai zombie **besar** yang menakutkan. Kenali tiap jenisnya, lalu pilih senjata dan strategi yang tepat.
+Our mission is to bring Indonesian-inspired experiences to players around the world.
 
 ---
 
-## 🗺️ Fitur Utama
+# 🎮 Our Games
 
-- 🏘️ Latar perkampungan Indonesia
-- 🎥 Tampilan third person
-- 👪 6 karakter keluarga yang bisa dipilih
-- ⚔️ Beragam senjata, dari yang sederhana sampai yang mematikan
-- 🧟 Berbagai jenis zombie, dari kecil sampai besar
-- 🏃 Gameplay survival
+## 🧟 Bertahan
+
+**Survive. Protect your family. Defend your village.**
+
+Bertahan is a third-person survival game set in a traditional Indonesian village during a zombie outbreak.
+
+### Features
+
+- 🏘️ Indonesian village setting
+- 🎥 Third-person gameplay
+- 👨‍👩‍👧‍👦 Play as different family members
+- ⚔️ Various weapons from household tools to firearms
+- 🧟 Multiple zombie types with unique behaviors
+- 🎯 Survival-focused gameplay
+
+### Playable Characters
+
+- 👨 Father
+- 👩 Mother
+- 🧑 Older Sibling
+- 🧒 Younger Sibling
+- 👴 Grandfather
+- 👵 Grandmother
+
+### Weapons
+
+- Crowbar
+- Axe
+- Hoe
+- Broom
+- Rifle
+- Molotov Bomb
+
+**Status:** 🚧 In Development
 
 ---
 
-## 📌 Status
+## 🏡 Our Happy Home
 
-🚧 **Bertahan sedang dalam pengembangan.**
+**Build a home. Create memories. Live together.**
 
-Ikuti terus repositori kami untuk kabar terbaru.
+Our Happy Home is a cozy life simulation game about creating a warm and happy family life.
+
+### Planned Features
+
+- 🏠 Home building and customization
+- 🌳 Family-oriented gameplay
+- 😊 Character interaction system
+- 🎨 Comfortable and relaxing atmosphere
+- 🎯 Daily activities and life simulation
 
 ---
 
-## 📍 Dari Bogor untuk Dunia
+## 🦐 Si Jenggo
 
-Syubadubin lahir di Bogor dan bangga membawa budaya serta suasana Indonesia ke dalam game.
+**A local adventure inspired by Indonesian flavors and folklore.**
+
+Si Jenggo is an Indonesian-themed adventure game featuring a unique local character and settings inspired by everyday life and regional culture.
+
+### Planned Features
+
+- 🇮🇩 Indonesian-inspired world
+- 📖 Story-driven adventure
+- 🎮 Fun and accessible gameplay
+- 🎭 Unique local characters
+- 🌴 Rich cultural atmosphere
 
 ---
 
-<div align="center">
+## 🎣 Nusantara Fishing Madness
 
-**Syubadubin** · Bogor, Indonesia · Game Studio Indie
+**The ultimate Indonesian fishing adventure.**
 
-*Bertahan, sampai akhir.* 🧟‍♀️🔥
+Travel across the Indonesian archipelago and discover exciting fishing locations, unique aquatic creatures, and challenging catches.
 
-</div>
+### Features
+
+- 🎣 Fishing gameplay with various techniques
+- 🐟 Diverse fish and aquatic species
+- 🗺️ Indonesian-inspired locations
+- 🏆 Collection and progression systems
+- 🌊 Relaxing yet rewarding exploration
+
+---
+
+# 🚀 Vision
+
+We want to create games that:
+
+- Celebrate Indonesian culture
+- Inspire creativity in young developers
+- Deliver memorable experiences for global players
+- Show that imagination has no age limit
+
+---
+
+# 📍 From Bogor to the World
+
+Proudly made in Bogor, Indonesia 🇮🇩
+
+Thank you for visiting our repositories and following our journey.
+
+### Happy Gaming! 🎮
