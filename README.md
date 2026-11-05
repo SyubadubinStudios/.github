@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/.github/main/logo-syubadubin.png" alt="Logo Syubadubin Studios" width="240" />
+
 # 🎮 Syubadubin
 
 ### Studio Game Indie dari Bogor 🇮🇩

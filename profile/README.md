@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/SyubadubinStudios/.github/main/logo-syubadubin.png" alt="Syubadubin Studios logo" width="240" /></p>
+
 # 🎮 Syubadubin Studios
 
 ### Indie Game Studio from Bogor, Indonesia 🇮🇩
