@@ -18,7 +18,7 @@
 
 Kami percaya bahwa ide game seru bisa datang dari siapa saja, di umur berapa saja. Dari imajinasi anak-anak, kami membuat game dengan cerita, suasana, dan karakter yang dekat dengan kehidupan sehari-hari di Indonesia.
 
-Semua game kami dibuat dengan **.NET 10 (C#)**, bisa dimainkan di **Windows, Linux, dan macOS**, dan tersedia dalam **Bahasa Indonesia dan Inggris**.
+Semua game kami dibuat dengan **.NET 10 (C#)**. Sebagian besar bisa dimainkan di **Windows, Linux, dan macOS**, dan tersedia dalam **Bahasa Indonesia dan Inggris**.
 
 ---
 
@@ -26,7 +26,8 @@ Semua game kami dibuat dengan **.NET 10 (C#)**, bisa dimainkan di **Windows, Lin
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
-| 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.2.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🌊 [Petualang Air](https://github.com/SyubadubinStudios/Petualang.Air) | Eksplorasi perairan Nusantara | [v1.0.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
+| 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](https://github.com/SyubadubinStudios/DjancoegTournament) | Arena tembak-tembakan multiplayer | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](https://github.com/SyubadubinStudios/HappyCooking) | Petualangan memasak 3D untuk anak | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](https://github.com/SyubadubinStudios/TarkamArena) | Game pertarungan 3D | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
@@ -34,6 +35,23 @@ Semua game kami dibuat dengan **.NET 10 (C#)**, bisa dimainkan di **Windows, Lin
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🌊 Petualang Air
+
+> *Dari hulu hingga samudra.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Petualang.Air/main/docs/screenshots/main-menu.png" alt="Petualang Air" width="640" />
+
+Game eksplorasi perairan Nusantara. Dayung rakitmu melewati jeram, hutan bakau, danau vulkanik, kanal kota, terumbu karang, sampai samudra luas.
+
+- 🏞️ Enam lingkungan: jeram pegunungan, bakau gambut, danau vulkanik, kanal kota, karang, dan samudra
+- 📜 12 misi ekologi dan budaya, reputasi Sungai Lestari, dan koleksi artefak budaya
+- 🛶 Pasar terapung untuk barter, empat rakit, dan perlengkapan seperti jaring, lampu, dan kompas
+- 🥥 Kelapa dan kopi untuk menambah stamina, plus kosmetik batik
+- 🌦️ Air berpantulan, cuaca, vegetasi bergerak, dan tiga soundtrack orisinal
+- 💻 Untuk Windows, bisa dimainkan offline
 
 ---
 
@@ -177,12 +195,6 @@ Game **survival melawan zombie** dengan latar **perkampungan Indonesia** dan sud
 - 👹 8 bos dari cerita rakyat, termasuk Genderuwo, Kuntilanak, dan Dukun Zombi
 - 🧟 13 jenis zombie dan 6 musuh tambahan
 - 🐔 Kampung yang ramai dengan warga dan hewan
-
----
-
-## 🌊 Segera Hadir: Petualang Air
-
-Game petualangan air terbaru dari Syubadubin. Ikuti [repositorinya](https://github.com/SyubadubinStudios/Petualang.Air) untuk kabar terbaru!
 
 ---
 

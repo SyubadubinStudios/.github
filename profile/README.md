@@ -18,7 +18,7 @@ Founded by **Ariana Mischa Fadhila**, Syubadubin believes that great game ideas 
 
 Our mission is to bring Indonesian-inspired experiences to players around the world.
 
-All our games are built with **.NET 10 (C#)**, run on **Windows, Linux and macOS**, and are playable in **English and Bahasa Indonesia**.
+All our games are built with **.NET 10 (C#)**. Most of them run on **Windows, Linux and macOS** and are playable in **English and Bahasa Indonesia**.
 
 ---
 
@@ -26,7 +26,8 @@ All our games are built with **.NET 10 (C#)**, run on **Windows, Linux and macOS
 
 | Game | Genre | Latest release |
 |---|---|---|
-| 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.2.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🌊 [Petualang Air](#-petualang-air) | Indonesian waterway exploration | [v1.0.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
+| 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](#-djancoeg-tournament) | Multiplayer arena shooter (FPS/TPS) | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](#-happy-cooking) | 3D cooking adventure for kids | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](#-tarkam-arena) | 3D fighting game | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
@@ -34,6 +35,27 @@ All our games are built with **.NET 10 (C#)**, run on **Windows, Linux and macOS
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🌊 Petualang Air
+
+**From the river's source to the open ocean.**
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Petualang.Air/main/docs/screenshots/main-menu.png" alt="Petualang Air" width="640" />
+
+An exploration game across the waters of the Indonesian archipelago. Paddle your raft through mountain rapids, mangroves, volcanic lakes, city canals, coral reefs and the open ocean.
+
+### Features
+
+- 🏞️ Six environments: mountain rapids, peat mangroves, a volcanic lake, city canals, a reef and the ocean
+- 📜 12 ecology and culture missions, a river-care reputation, and cultural artefacts to collect
+- 🛶 A floating market for bartering, four rafts, and gear such as nets, lamps and a compass
+- 🥥 Coconuts and coffee for stamina, plus batik cosmetics
+- 🌦️ Reflective water, weather, swaying plants and three original adaptive soundtracks
+- 💻 Windows, playable offline
+
+👉 [Repository](https://github.com/SyubadubinStudios/Petualang.Air) · [Download](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest)
 
 ---
 
@@ -205,12 +227,6 @@ A third-person 3D survival game against zombies in an Indonesian village. Pick a
 - 🐔 A lively village full of residents and animals
 
 👉 [Repository](https://github.com/SyubadubinStudios/bertahan) · [Download](https://github.com/SyubadubinStudios/bertahan/releases/latest)
-
----
-
-## 🌊 Coming Soon: Petualang Air
-
-Our next game is a water adventure. Watch the [repository](https://github.com/SyubadubinStudios/Petualang.Air) for updates!
 
 ---
 
