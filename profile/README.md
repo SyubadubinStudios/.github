@@ -26,13 +26,37 @@ All our games are built with **.NET 10 (C#)**, run on **Windows, Linux and macOS
 
 | Game | Genre | Latest release |
 |---|---|---|
-| 🥊 [Djancoeg Tournament](#-djancoeg-tournament) | Multiplayer arena shooter (FPS/TPS) | [v2.2.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
+| 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.2.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🥊 [Djancoeg Tournament](#-djancoeg-tournament) | Multiplayer arena shooter (FPS/TPS) | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](#-happy-cooking) | 3D cooking adventure for kids | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](#-tarkam-arena) | 3D fighting game | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
 | 🎣 [Nusantara Fishing Madness](#-nusantara-fishing-madness) | 3D fishing adventure | [v0.3.0-preview.3](https://github.com/SyubadubinStudios/NusantaraFishingMadness/releases) (preview) |
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🚗 Barudak Bogor
+
+***"The rain is real, the adventure never ends."***
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Barudak.Bogor/main/docs/images/launch.png" alt="Barudak Bogor" width="640" />
+
+A GTA-style open-world game set in and around the city of Bogor: rain that really falls, green angkot minibuses, street food and Sundanese humour.
+
+### Features
+
+- 🗺️ A 40 km x 40 km world with 9 areas, from the city centre and Kebun Raya to Puncak
+- 🏙️ Main roads, the Ciliwung River and the KRL railway follow the real Bogor, with 46 landmarks such as Tugu Kujang, Bogor Palace and Bogor Station
+- 🚌 13 vehicles: angkot, motorbikes, delman, becak, bajaj, cilok carts, tahu bulat vans and more
+- 🌧️ Dynamic weather: drizzle, heavy rain, thunderstorms, Puncak fog and power cuts
+- 📖 5 characters, 10 story missions, side missions and 5 endings
+- 🎣 Activities: fishing, ride-hailing, touring Puncak, badminton, dangdut karaoke and running a bandrek business
+
+**Status:** 🚧 Early development
+
+👉 [Repository](https://github.com/SyubadubinStudios/Barudak.Bogor) · [Download](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest)
 
 ---
 
@@ -46,7 +70,7 @@ A first- and third-person multiplayer arena shooter where wayang heroes, ride-ha
 
 ### Features
 
-- 🗺️ **Tur Nusantara** campaign: 20 stages across Java, Sumatra, Borneo, Sulawesi and Nusa Tenggara, 6 boss fights, co-op over LAN or online
+- 🗺️ **Tur Nusantara** campaign: 20 stages across Java, Sumatra, Borneo, Sulawesi and Nusa Tenggara, 6 boss fights, a story narrated in Indonesian, co-op over LAN or online
 - 🎯 5 modes: *Tawuran Bebas*, *Perang Kampung*, *Raja Warung*, *Rebutan Gorengan*, *Panjat Pinang*
 - 🧑‍🤝‍🧑 17 fighters, 10 absurd weapons (from a mosquito racket to a satay fan) and 7 arenas
 - 🌐 Up to 32 players: bots, LAN, online with a master server, or a dedicated server
@@ -181,6 +205,12 @@ A third-person 3D survival game against zombies in an Indonesian village. Pick a
 - 🐔 A lively village full of residents and animals
 
 👉 [Repository](https://github.com/SyubadubinStudios/bertahan) · [Download](https://github.com/SyubadubinStudios/bertahan/releases/latest)
+
+---
+
+## 🌊 Coming Soon: Petualang Air
+
+Our next game is a water adventure. Watch the [repository](https://github.com/SyubadubinStudios/Petualang.Air) for updates!
 
 ---
 

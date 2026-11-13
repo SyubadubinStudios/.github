@@ -26,13 +26,33 @@ Semua game kami dibuat dengan **.NET 10 (C#)**, bisa dimainkan di **Windows, Lin
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
-| 🥊 [Djancoeg Tournament](https://github.com/SyubadubinStudios/DjancoegTournament) | Arena tembak-tembakan multiplayer | [v2.2.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
+| 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.2.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🥊 [Djancoeg Tournament](https://github.com/SyubadubinStudios/DjancoegTournament) | Arena tembak-tembakan multiplayer | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](https://github.com/SyubadubinStudios/HappyCooking) | Petualangan memasak 3D untuk anak | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](https://github.com/SyubadubinStudios/TarkamArena) | Game pertarungan 3D | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
 | 🎣 [Nusantara Fishing Madness](https://github.com/SyubadubinStudios/NusantaraFishingMadness) | Petualangan memancing 3D | [v0.3.0-preview.3](https://github.com/SyubadubinStudios/NusantaraFishingMadness/releases) (preview) |
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🚗 Barudak Bogor
+
+> *Hujanna asli, petualanganna teu aya tungtungna.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Barudak.Bogor/main/docs/images/launch.png" alt="Barudak Bogor" width="640" />
+
+Game open world bergaya GTA berlatar Kota Bogor dan sekitarnya: hujan yang benar-benar turun, angkot hijau, cilok, bandrek, dan humor Sunda.
+
+- 🗺️ Dunia 40 km x 40 km dengan 9 area, dari Pusat Kota dan Kebun Raya sampai Puncak
+- 🏙️ Jalan utama, Sungai Ciliwung, dan rel KRL mengikuti peta Bogor yang asli, dengan 46 tempat terkenal seperti Tugu Kujang, Istana Bogor, dan Stasiun Bogor
+- 🚌 13 kendaraan: angkot, motor, delman, becak, bajaj, gerobak cilok, mobil tahu bulat, dan lainnya
+- 🌧️ Cuaca dinamis: gerimis, hujan deras, badai petir, kabut Puncak, sampai mati lampu
+- 📖 5 karakter, 10 misi cerita, misi sampingan, dan 5 akhir cerita
+- 🎣 Aktivitas: mancing, ojol, touring Puncak, badminton kampung, karaoke dangdut, dan usaha bandrek
+
+🚧 **Masih tahap awal pengembangan.**
 
 ---
 
@@ -44,7 +64,7 @@ Semua game kami dibuat dengan **.NET 10 (C#)**, bisa dimainkan di **Windows, Lin
 
 Game tembak-tembakan multiplayer dengan sudut pandang orang pertama dan ketiga. Tokoh wayang, kang ojol, pocong, dan kucing oren beradu di pasar malam.
 
-- 🗺️ Kampanye **Tur Nusantara**: 20 tahap di Jawa, Sumatra, Kalimantan, Sulawesi, dan Nusa Tenggara, dengan 6 bos dan mode co-op
+- 🗺️ Kampanye **Tur Nusantara**: 20 tahap di Jawa, Sumatra, Kalimantan, Sulawesi, dan Nusa Tenggara, dengan 6 bos, cerita bernarasi berbahasa Indonesia, dan co-op online
 - 🎯 Mode *Tawuran Bebas*, *Perang Kampung*, *Raja Warung*, *Rebutan Gorengan*, dan *Panjat Pinang*
 - 🧑‍🤝‍🧑 17 petarung, 10 senjata kocak (dari raket nyamuk sampai kipas sate), dan 7 arena
 - 🌐 Sampai 32 pemain lewat LAN, online, atau server sendiri
@@ -157,6 +177,12 @@ Game **survival melawan zombie** dengan latar **perkampungan Indonesia** dan sud
 - 👹 8 bos dari cerita rakyat, termasuk Genderuwo, Kuntilanak, dan Dukun Zombi
 - 🧟 13 jenis zombie dan 6 musuh tambahan
 - 🐔 Kampung yang ramai dengan warga dan hewan
+
+---
+
+## 🌊 Segera Hadir: Petualang Air
+
+Game petualangan air terbaru dari Syubadubin. Ikuti [repositorinya](https://github.com/SyubadubinStudios/Petualang.Air) untuk kabar terbaru!
 
 ---
 
