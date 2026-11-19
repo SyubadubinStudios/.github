@@ -18,7 +18,7 @@ Founded by **Ariana Mischa Fadhila**, Syubadubin believes that great game ideas 
 
 Our mission is to bring Indonesian-inspired experiences to players around the world.
 
-All our games are built with **.NET 10 (C#)**. Most of them run on **Windows, Linux and macOS** and are playable in **English and Bahasa Indonesia**.
+All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and macOS**. Most of them are playable in **English and Bahasa Indonesia**.
 
 ---
 
@@ -26,15 +26,39 @@ All our games are built with **.NET 10 (C#)**. Most of them run on **Windows, Li
 
 | Game | Genre | Latest release |
 |---|---|---|
-| 🌊 [Petualang Air](#-petualang-air) | Indonesian waterway exploration | [v1.0.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
+| 🏹 [Battle of Nusantara](#-battle-of-nusantara) | RTS, MOBA and adventure strategy | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
+| 🌊 [Petualang Air](#-petualang-air) | Indonesian waterway exploration | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
 | 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](#-djancoeg-tournament) | Multiplayer arena shooter (FPS/TPS) | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](#-happy-cooking) | 3D cooking adventure for kids | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](#-tarkam-arena) | 3D fighting game | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
 | 🎣 [Nusantara Fishing Madness](#-nusantara-fishing-madness) | 3D fishing adventure | [v0.3.0-preview.3](https://github.com/SyubadubinStudios/NusantaraFishingMadness/releases) (preview) |
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
-| 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
+| 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🏹 Battle of Nusantara
+
+**RTS, MOBA and adventure in a world of Indonesian legends.**
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/BattleNusantara/main/docs/screenshots/main-menu.png" alt="Battle of Nusantara" width="640" />
+
+A DOTA-style strategy game with a Nusantara theme. Lead Indonesian heroes and legendary creatures in army battles, 5v5 arenas, or a quest for ancient inscriptions.
+
+### Features
+
+- 🏰 **RTS Skirmish**: train troops and mining workers, build outposts, and destroy the enemy gate
+- 🛡️ **MOBA Arena** 5v5: Diponegoro, Pattimura, Si Pitung and Barong against Rangda, Leak, Buto Ijo, Kuntilanak and Pocong, with towers, items like the Heirloom Keris, and the Naga Basuki boss
+- 🗿 **Adventure**: recover three inscriptions and defeat the boss
+- 🌋 Seven maps with mountains, a volcano, beaches, rivers, forests, rice fields, swamps and desert, plus jungle camps, wildlife and villagers
+- 🎶 Gamelan-orchestral music, day and night, and weather
+- 🌐 LAN co-op, accounts and matchmaking
+
+**Status:** 🚧 Playable prototype
+
+👉 [Repository](https://github.com/SyubadubinStudios/BattleNusantara) · [Download](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest)
 
 ---
 
@@ -52,8 +76,8 @@ An exploration game across the waters of the Indonesian archipelago. Paddle your
 - 📜 12 ecology and culture missions, a river-care reputation, and cultural artefacts to collect
 - 🛶 A floating market for bartering, four rafts, and gear such as nets, lamps and a compass
 - 🥥 Coconuts and coffee for stamina, plus batik cosmetics
-- 🌦️ Reflective water, weather, swaying plants and three original adaptive soundtracks
-- 💻 Windows, playable offline
+- 🌦️ Reflective water, weather, butterflies, dragonflies, lotus and floating water plants, plus three original adaptive soundtracks
+- 💻 Windows, Linux and macOS, playable offline
 
 👉 [Repository](https://github.com/SyubadubinStudios/Petualang.Air) · [Download](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest)
 

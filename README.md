@@ -18,7 +18,7 @@
 
 Kami percaya bahwa ide game seru bisa datang dari siapa saja, di umur berapa saja. Dari imajinasi anak-anak, kami membuat game dengan cerita, suasana, dan karakter yang dekat dengan kehidupan sehari-hari di Indonesia.
 
-Semua game kami dibuat dengan **.NET 10 (C#)**. Sebagian besar bisa dimainkan di **Windows, Linux, dan macOS**, dan tersedia dalam **Bahasa Indonesia dan Inggris**.
+Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, Linux, dan macOS**. Sebagian besar tersedia dalam **Bahasa Indonesia dan Inggris**.
 
 ---
 
@@ -26,15 +26,35 @@ Semua game kami dibuat dengan **.NET 10 (C#)**. Sebagian besar bisa dimainkan di
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
-| 🌊 [Petualang Air](https://github.com/SyubadubinStudios/Petualang.Air) | Eksplorasi perairan Nusantara | [v1.0.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
+| 🏹 [Battle of Nusantara](https://github.com/SyubadubinStudios/BattleNusantara) | Strategi RTS, MOBA, dan petualangan | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
+| 🌊 [Petualang Air](https://github.com/SyubadubinStudios/Petualang.Air) | Eksplorasi perairan Nusantara | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
 | 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](https://github.com/SyubadubinStudios/DjancoegTournament) | Arena tembak-tembakan multiplayer | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](https://github.com/SyubadubinStudios/HappyCooking) | Petualangan memasak 3D untuk anak | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](https://github.com/SyubadubinStudios/TarkamArena) | Game pertarungan 3D | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
 | 🎣 [Nusantara Fishing Madness](https://github.com/SyubadubinStudios/NusantaraFishingMadness) | Petualangan memancing 3D | [v0.3.0-preview.3](https://github.com/SyubadubinStudios/NusantaraFishingMadness/releases) (preview) |
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
-| 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.0](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
+| 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🏹 Battle of Nusantara
+
+> *RTS, MOBA, dan petualangan di dunia legenda Indonesia.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/BattleNusantara/main/docs/screenshots/main-menu.png" alt="Battle of Nusantara" width="640" />
+
+Game strategi bergaya DOTA dengan tema Nusantara. Pimpin pahlawan dan makhluk legenda Indonesia dalam pertempuran pasukan, arena 5 lawan 5, atau petualangan mencari prasasti.
+
+- 🏰 **RTS Skirmish**: latih pasukan dan pekerja tambang, bangun pos, lalu hancurkan gerbang musuh
+- 🛡️ **MOBA Arena** 5 lawan 5: Diponegoro, Pattimura, Si Pitung, dan Barong melawan Rangda, Leak, Buto Ijo, Kuntilanak, dan Pocong, dengan menara, item seperti Keris Pusaka, dan boss Naga Basuki
+- 🗿 **Adventure**: temukan tiga prasasti dan kalahkan boss
+- 🌋 Tujuh peta: pulau bergunung, gunung api, pantai, sungai, hutan, sawah, rawa, dan gurun, dengan kamp monster, hewan liar, dan penduduk desa
+- 🎶 Musik gamelan-orkestra, siang-malam, dan cuaca
+- 🌐 Co-op LAN, akun, dan matchmaking
+
+🚧 **Masih prototipe yang bisa dimainkan.**
 
 ---
 
@@ -50,8 +70,8 @@ Game eksplorasi perairan Nusantara. Dayung rakitmu melewati jeram, hutan bakau, 
 - 📜 12 misi ekologi dan budaya, reputasi Sungai Lestari, dan koleksi artefak budaya
 - 🛶 Pasar terapung untuk barter, empat rakit, dan perlengkapan seperti jaring, lampu, dan kompas
 - 🥥 Kelapa dan kopi untuk menambah stamina, plus kosmetik batik
-- 🌦️ Air berpantulan, cuaca, vegetasi bergerak, dan tiga soundtrack orisinal
-- 💻 Untuk Windows, bisa dimainkan offline
+- 🌦️ Air berpantulan, cuaca, kupu-kupu, capung, teratai, dan tanaman air yang bergerak, plus tiga soundtrack orisinal
+- 💻 Windows, Linux, dan macOS, bisa dimainkan offline
 
 ---
 
