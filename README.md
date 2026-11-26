@@ -51,7 +51,7 @@ Game aksi-petualangan pemburu raksasa berlatar Indonesia alternatif tahun 2045. 
 - 🧗 Panjat tubuh raksasa yang hidup: genggam, panjat, dan berpindah antaranggota tubuhnya sambil menjaga stamina
 - 💓 Lepaskan tusukan tepat pada denyut inti untuk serangan **resonansi**
 - 🛸 Drone GARUDA bisa memindai segel, meretas Penjaga mekanis, dan memasang umpan hologram
-- 🗺️ Delapan wilayah dan delapan Penjaga: Kerbau Langit di Bromo, Raksasa Menara di Jakarta, Komodo Raksasa di Flores, Kapal Majapahit di Laut Banda, dan lainnya
+- 🗺️ Delapan wilayah dan delapan Penjaga: Kerbau Langit di Bromo, Gedung Titan di Jakarta, Komodo Agung di Flores, Kapal Majapahit di Laut Banda, dan lainnya
 - ⭐ Peringkat S/A/B/C, mode Legenda, dan tiga pohon keahlian
 - 🤝 Co-op 2–4 pemain lewat LAN
 - 📱 Tersedia juga untuk Android (eksperimental)
