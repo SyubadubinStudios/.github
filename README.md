@@ -26,9 +26,10 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
+| 🗿 [Nusantara Colossi](https://github.com/SyubadubinStudios/Nusantara.Colossi) | Aksi-petualangan pemburu raksasa | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](https://github.com/SyubadubinStudios/BattleNusantara) | Strategi RTS, MOBA, dan petualangan | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
 | 🌊 [Petualang Air](https://github.com/SyubadubinStudios/Petualang.Air) | Eksplorasi perairan Nusantara | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
-| 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🚗 [Barudak Bogor](https://github.com/SyubadubinStudios/Barudak.Bogor) | Open world di Kota Bogor | [v0.4.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](https://github.com/SyubadubinStudios/DjancoegTournament) | Arena tembak-tembakan multiplayer | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](https://github.com/SyubadubinStudios/HappyCooking) | Petualangan memasak 3D untuk anak | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](https://github.com/SyubadubinStudios/TarkamArena) | Game pertarungan 3D | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
@@ -36,6 +37,24 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🗿 Nusantara Colossi
+
+> *Panjat para Penjaga. Baca denyut intinya. Tenangkan mereka satu per satu.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Nusantara.Colossi/main/docs/images/title.png" alt="Nusantara Colossi" width="640" />
+
+Game aksi-petualangan pemburu raksasa berlatar Indonesia alternatif tahun 2045. Jaringan AI nasional **GARUDA NET** membangunkan delapan Penjaga kuno di seluruh Nusantara. Kamu adalah **Arka**, mantan insinyur AI dan pilot drone, yang harus menenangkan mereka bersama drone GARUDA.
+
+- 🧗 Panjat tubuh raksasa yang hidup: genggam, panjat, dan berpindah antaranggota tubuhnya sambil menjaga stamina
+- 💓 Lepaskan tusukan tepat pada denyut inti untuk serangan **resonansi**
+- 🛸 Drone GARUDA bisa memindai segel, meretas Penjaga mekanis, dan memasang umpan hologram
+- 🗺️ Delapan wilayah dan delapan Penjaga: Kerbau Langit di Bromo, Raksasa Menara di Jakarta, Komodo Raksasa di Flores, Kapal Majapahit di Laut Banda, dan lainnya
+- ⭐ Peringkat S/A/B/C, mode Legenda, dan tiga pohon keahlian
+- 🤝 Co-op 2–4 pemain lewat LAN
+- 📱 Tersedia juga untuk Android (eksperimental)
 
 ---
 
@@ -89,6 +108,7 @@ Game open world bergaya GTA berlatar Kota Bogor dan sekitarnya: hujan yang benar
 - 🌧️ Cuaca dinamis: gerimis, hujan deras, badai petir, kabut Puncak, sampai mati lampu
 - 📖 5 karakter, 10 misi cerita, misi sampingan, dan 5 akhir cerita
 - 🎣 Aktivitas: mancing, ojol, touring Puncak, badminton kampung, karaoke dangdut, dan usaha bandrek
+- 📱 Tersedia juga untuk Android
 
 🚧 **Masih tahap awal pengembangan.**
 

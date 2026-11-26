@@ -26,9 +26,10 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 
 | Game | Genre | Latest release |
 |---|---|---|
+| 🗿 [Nusantara Colossi](#-nusantara-colossi) | Action-adventure boss hunter | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](#-battle-of-nusantara) | RTS, MOBA and adventure strategy | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
 | 🌊 [Petualang Air](#-petualang-air) | Indonesian waterway exploration | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
-| 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.3.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
+| 🚗 [Barudak Bogor](#-barudak-bogor) | Open-world game in Bogor City | [v0.4.0](https://github.com/SyubadubinStudios/Barudak.Bogor/releases/latest) |
 | 🥊 [Djancoeg Tournament](#-djancoeg-tournament) | Multiplayer arena shooter (FPS/TPS) | [v2.3.0](https://github.com/SyubadubinStudios/DjancoegTournament/releases/latest) |
 | 🍳 [Happy Cooking](#-happy-cooking) | 3D cooking adventure for kids | [v1.0.0](https://github.com/SyubadubinStudios/HappyCooking/releases/latest) |
 | 🥋 [Tarkam Arena](#-tarkam-arena) | 3D fighting game | [v0.2.2](https://github.com/SyubadubinStudios/TarkamArena/releases/latest) |
@@ -36,6 +37,28 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🗿 Nusantara Colossi
+
+**Climb the Guardians. Read their heartbeat. Lay them to rest.**
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/Nusantara.Colossi/main/docs/images/title.png" alt="Nusantara Colossi" width="640" />
+
+An action-adventure boss hunter set in an alternate Indonesia, 2045. The national AI network **GARUDA NET** has woken eight ancient Guardians across the archipelago. You play **Arka**, a former AI engineer and drone pilot, who must lay them to rest with the drone GARUDA.
+
+### Features
+
+- 🧗 Climb living giants: grip, climb and cross between their limbs while managing your stamina
+- 💓 Release your stab on the core's pulse for a **resonance** strike
+- 🛸 GARUDA, your drone, scans seals, hacks mechanical guardians and deploys hologram decoys
+- 🗺️ Eight regions, eight guardians: the Sky Buffalo of Bromo, the Tower Titan of Jakarta, the Great Komodo of Flores, the Majapahit Ship of the Banda Sea and more
+- ⭐ S/A/B/C ranks, Legend mode and three skill trees
+- 🤝 2–4 player co-op over LAN
+- 📱 Also on Android (experimental)
+
+👉 [Repository](https://github.com/SyubadubinStudios/Nusantara.Colossi) · [Download](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest)
 
 ---
 
@@ -99,6 +122,7 @@ A GTA-style open-world game set in and around the city of Bogor: rain that reall
 - 🌧️ Dynamic weather: drizzle, heavy rain, thunderstorms, Puncak fog and power cuts
 - 📖 5 characters, 10 story missions, side missions and 5 endings
 - 🎣 Activities: fishing, ride-hailing, touring Puncak, badminton, dangdut karaoke and running a bandrek business
+- 📱 Also on Android
 
 **Status:** 🚧 Early development
 
