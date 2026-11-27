@@ -26,6 +26,7 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
+| 🔥 [Si Pitung: Legends of Batavia](https://github.com/SyubadubinStudios/SiPitung) | FPS arena bertema mitos Nusantara | [v1.3.2](https://github.com/SyubadubinStudios/SiPitung/releases/latest) |
 | 👾 [Game Machine](https://github.com/SyubadubinStudios/GameMachine) | Koleksi 105 game arcade | [v2.0.0](https://github.com/SyubadubinStudios/GameMachine/releases/latest) |
 | 🗿 [Nusantara Colossi](https://github.com/SyubadubinStudios/Nusantara.Colossi) | Aksi-petualangan pemburu raksasa | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](https://github.com/SyubadubinStudios/BattleNusantara) | Strategi RTS, MOBA, dan petualangan | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
@@ -38,6 +39,23 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🔥 Si Pitung: Legends of Batavia
+
+> *Jawara Betawi bangkit untuk menghancurkan invasi makhluk gaib.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/SiPitung/main/assets/art/hero_keyart.png" alt="Si Pitung: Legends of Batavia" width="640" />
+
+FPS arena serba cepat berlatar tahun 2085. Megakorporasi **Nusantara Corp** membuka alam gaib dengan **Keris Naga Sasra**, dan makhluk mitologi Indonesia menyerbu Nusantara. **Si Pitung**, berbekal silat Rawa Belong dan teknologi siber-spiritual, bangkit untuk melawan.
+
+- 🥋 Gerakan silat yang lincah: lompat ganda, dash **Langkah Kilat**, seluncur **Sapu Tanah**, tali **Rantai Sabuk**, dan tangkisan **Tangkis Pusaka**
+- 🗡️ 9 senjata pusaka: Golok Petir, Bedil Pitung, Keris Naga Api, Meriam Majapahit, Sumpit Dayak, Angklung Sonic Cannon, sampai Keris Naga Sasra
+- 👻 Tangkap roh Kuntilanak, Genderuwo, Leak, dan Buto Ijo untuk memakai kekuatan **Roh Khodam**
+- 🗺️ 6 wilayah, dari Jakarta Neraka dan Kota Tua Batavia sampai Gunung Bromo dan Candi Borobudur, dengan 5 bos raksasa
+- 🔥 Meteran gaya dari **D — WARGA** sampai **S — LEGENDA BATAVIA**, dengan musik gamelan-metal
+- 🤝 Mode Cerita, Co-op Horde online, dan Boss Rush
 
 ---
 

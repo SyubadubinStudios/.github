@@ -26,6 +26,7 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 
 | Game | Genre | Latest release |
 |---|---|---|
+| 🔥 [Si Pitung: Legends of Batavia](#-si-pitung-legends-of-batavia) | Indonesian mythpunk arena FPS | [v1.3.2](https://github.com/SyubadubinStudios/SiPitung/releases/latest) |
 | 👾 [Game Machine](#-game-machine) | 105-game arcade collection | [v2.0.0](https://github.com/SyubadubinStudios/GameMachine/releases/latest) |
 | 🗿 [Nusantara Colossi](#-nusantara-colossi) | Action-adventure boss hunter | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](#-battle-of-nusantara) | RTS, MOBA and adventure strategy | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
@@ -38,6 +39,27 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 🔥 Si Pitung: Legends of Batavia
+
+**A Betawi champion rises to shatter a mythological invasion.**
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/SiPitung/main/assets/art/hero_keyart.png" alt="Si Pitung: Legends of Batavia" width="640" />
+
+A fast-paced arena FPS set in 2085. The megacorporation **Nusantara Corp** breaches the spirit realm with the sacred **Keris Naga Sasra**, and creatures from Indonesian mythology flood the archipelago. Reborn through Pencak Silat Rawa Belong and cyber-spiritual technology, **Si Pitung** rises to fight back.
+
+### Features
+
+- 🥋 Silat movement: double jump, the **Langkah Kilat** dash, the **Sapu Tanah** slide, the **Rantai Sabuk** grapple and the **Tangkis Pusaka** parry
+- 🗡️ 9 heirloom weapons: Golok Petir, Bedil Pitung, Keris Naga Api, Meriam Majapahit, Sumpit Dayak, an Angklung Sonic Cannon and the Keris Naga Sasra
+- 👻 Capture the spirits of Kuntilanak, Genderuwo, Leak and Buto Ijo to use their **Roh Khodam** powers
+- 🗺️ 6 realms, from Jakarta Neraka and Kota Tua Batavia to Gunung Bromo and Candi Borobudur, with 5 giant bosses
+- 🔥 A style meter from **D — WARGA** to **S — LEGENDA BATAVIA**, with a gamelan-metal soundtrack
+- 🤝 Story Campaign, online Co-op Horde and Boss Rush
+
+👉 [Repository](https://github.com/SyubadubinStudios/SiPitung) · [Download](https://github.com/SyubadubinStudios/SiPitung/releases/latest)
 
 ---
 
