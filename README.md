@@ -26,6 +26,7 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 
 | Game | Genre | Rilis terbaru |
 |---|---|---|
+| 👾 [Game Machine](https://github.com/SyubadubinStudios/GameMachine) | Koleksi 105 game arcade | [v2.0.0](https://github.com/SyubadubinStudios/GameMachine/releases/latest) |
 | 🗿 [Nusantara Colossi](https://github.com/SyubadubinStudios/Nusantara.Colossi) | Aksi-petualangan pemburu raksasa | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](https://github.com/SyubadubinStudios/BattleNusantara) | Strategi RTS, MOBA, dan petualangan | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
 | 🌊 [Petualang Air](https://github.com/SyubadubinStudios/Petualang.Air) | Eksplorasi perairan Nusantara | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
@@ -37,6 +38,23 @@ Semua game kami dibuat dengan **.NET 10 (C#)** dan bisa dimainkan di **Windows, 
 | 🦸 [Si Jenggo](https://github.com/SyubadubinStudios/SiJenggo) | Beat 'em up 3D side-scrolling | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](https://github.com/SyubadubinStudios/OurHappyHome) | Simulasi kehidupan keluarga | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](https://github.com/SyubadubinStudios/bertahan) | Survival zombie third person | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 👾 Game Machine
+
+> *100 legenda arcade. Satu mesin. Seru tanpa henti.*
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/GameMachine/main/docs/screenshots/01-hub-launcher.png" alt="Game Machine" width="640" />
+
+Koleksi game arcade dalam satu mesin: dari game labirin klasik dan pemecah bata sampai balapan 3D dan game tembak light gun.
+
+- 🕹️ 100 game arcade plus 5 mod resmi, total 105 game yang bisa dimainkan
+- 🎮 Enam kategori: Arcade Klasik, Beat 'em Up, Pertarungan, Run & Gun, Balapan 3D, serta Light Gun & Rail 3D
+- 👥 Banyak game bisa dimainkan berdua
+- 🌐 Netplay online dengan rollback untuk game pertarungan 3D
+- 🏆 Papan skor, turnamen esports, skin kabinet, dan workshop mod
+- 🇮🇩 Tersedia dalam Bahasa Indonesia dan Inggris
 
 ---
 

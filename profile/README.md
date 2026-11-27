@@ -26,6 +26,7 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 
 | Game | Genre | Latest release |
 |---|---|---|
+| 👾 [Game Machine](#-game-machine) | 105-game arcade collection | [v2.0.0](https://github.com/SyubadubinStudios/GameMachine/releases/latest) |
 | 🗿 [Nusantara Colossi](#-nusantara-colossi) | Action-adventure boss hunter | [v0.3.1](https://github.com/SyubadubinStudios/Nusantara.Colossi/releases/latest) |
 | 🏹 [Battle of Nusantara](#-battle-of-nusantara) | RTS, MOBA and adventure strategy | [v0.14.0](https://github.com/SyubadubinStudios/BattleNusantara/releases/latest) |
 | 🌊 [Petualang Air](#-petualang-air) | Indonesian waterway exploration | [v1.2.0](https://github.com/SyubadubinStudios/Petualang.Air/releases/latest) |
@@ -37,6 +38,27 @@ All our games are built with **.NET 10 (C#)** and run on **Windows, Linux and ma
 | 🦸 [Si Jenggo](#-si-jenggo--preman-berhati-malaikat) | 3D side-scrolling beat 'em up | [v0.1.1](https://github.com/SyubadubinStudios/SiJenggo/releases/latest) |
 | 🏡 [Our Happy Home](#-our-happy-home) | Family life simulation | [v1.4.1](https://github.com/SyubadubinStudios/OurHappyHome/releases/latest) |
 | 🧟 [Bertahan!](#-bertahan) | Third-person zombie survival | [v1.0.1](https://github.com/SyubadubinStudios/bertahan/releases/latest) |
+
+---
+
+## 👾 Game Machine
+
+**100 Arcade Legends. One Machine. Endless Fun.**
+
+<img src="https://raw.githubusercontent.com/SyubadubinStudios/GameMachine/main/docs/screenshots/01-hub-launcher.png" alt="Game Machine" width="640" />
+
+An arcade collection in one machine: from classic maze and brick-breaker games to 3D racing and light-gun shooters.
+
+### Features
+
+- 🕹️ 100 arcade games plus 5 official mods, for 105 playable games in total
+- 🎮 Six categories: Classic Arcade, Beat 'em Up, Fighting, Run & Gun, Racing 3D, and Light Gun & Rail 3D
+- 👥 Many games support two players
+- 🌐 Online rollback netplay for the 3D fighting games
+- 🏆 Leaderboards, esports tournaments, cabinet skins and a mods workshop
+- 🇮🇩 Playable in English and Bahasa Indonesia
+
+👉 [Repository](https://github.com/SyubadubinStudios/GameMachine) · [Download](https://github.com/SyubadubinStudios/GameMachine/releases/latest)
 
 ---
 
